@@ -2,8 +2,8 @@
 
 Task 1.2 about Exceptions in Java on how to handle them when needed to build a robust code.
 
-Level 1 [README.md](https://github.com/isaac-diez/1.2-Exceptions/blob/master/src/Level1/README.md)
-Level 2 [README.md](https://github.com/isaac-diez/1.2-Exceptions/blob/master/src/Level2/README.md)
+- Level 1 [README.md](https://github.com/isaac-diez/1.2-Exceptions/blob/master/src/Level1/README.md)
+- Level 2 [README.md](https://github.com/isaac-diez/1.2-Exceptions/blob/master/src/Level2/README.md)
 
 
 💻**Stack used:**
