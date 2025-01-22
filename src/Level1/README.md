@@ -31,9 +31,8 @@ Project created with:
 No specific requirement but the Java and Maven version or newer.
 
 🛠️**Installation:**
-- Clone this repo: -> [git clone](https://github.com/isaac-diez/IT-Academy-Java.git)
-- Access to the project folder: cd 1.2-Exceptions-Nivell1
-- **IMPORTANT: checkout branch MASTER**
+- Clone this repo: -> [git clone](https://github.com/isaac-diez/1.2-Exceptions.git)
+- Access to the project [folder](https://github.com/isaac-diez/1.2-Exceptions/tree/master/src/Level1)
 
 
 ▶️**Execution:** No specific instruction.
